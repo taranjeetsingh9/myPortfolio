@@ -751,7 +751,7 @@ font-size: 24px;
 }
 
 /*media queries  */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
     body {
         font-size: 12px;
         margin: 0;
