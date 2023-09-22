@@ -749,12 +749,6 @@ font-size: 24px;
 
     
 }
-.navbarmobile{
-    display: none;
-}
-.MainheadingM{
-    display: none;
-}
 
 /*media queries  */
 @media screen and (max-width: 480px) {
